@@ -15,9 +15,6 @@
  */
 ```
 
-### Report issues and bugs?
-- Submit directly here [Open issue](https://github.com/Mika-Releases/issues-tracker/issues/new/choose)
-
 
 ### like the results of my hard work / want to appreciate my achievements?
 ![](https://i.ppy.sh/799e2002d67c2e0e25b114b276d2164e69b605cc/68747470733a2f2f692e6962622e636f2f4c7a66395a52312f657a6769662d636f6d2d6769662d6d616b65722d312e676966) Maybe Donate :D [Paypal](https://www.paypal.com/paypalme/ShandyReynaldi) | [Trakteer.id](https://trakteer.id/renzalt/tip)
@@ -25,10 +22,10 @@
 ## Credits
 
 - [Android Open Source Project](https://android.googlesource.com/)
+- [Miku UI](https://github.com/Miku-UI)
 - [LineageOS](https://github.com/LineageOS)
-- [LineageOS Banner](https://t.me/Ren_Artworks)
 
 ### Last
 > Good luck :3
 
-[![Release downloads](https://img.shields.io/github/downloads/Mika-Releases/LineageOS_ysl/total.svg)](https://github.com/Mika-Releases/LineageOS_ysl/releases/)
+[![Release downloads](https://img.shields.io/github/downloads/Mika-Releases/MikuUI_ysl/total.svg)](https://github.com/Mika-Releases/MikuUI_ysl/releases/)
