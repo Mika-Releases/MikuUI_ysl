@@ -1,5 +1,5 @@
 ![LineageOS Banner](/assets/miku.jpg)
-> Welcome to Mika LineageOS_ysl releases!
+> Welcome to Mika MikuUI_ysl releases!
 
 > "Our system can make your phone look Kawaii"
 
